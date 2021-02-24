@@ -21,8 +21,4 @@ activiation function.
 So there are many small problems and no tricks and dummy
 way in this project such as overfitted and deviation on
 the prediction of future numbers. But a good start is a half done.
-<<<<<<< HEAD
 In the long way, this competition will be definitely unforgettable.
-=======
-In the long way, this competition will be definitely unforgettable.
->>>>>>> c6608b92b48d2c735e6bd7867a2d9b0c0a54d6b4
